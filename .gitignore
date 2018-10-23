@@ -1,0 +1,12 @@
+bower_components
+node_modules
+npm-debug.log
+yarn-error.log
+/.cache-loader
+*.DS_Store
+._*
+Thumbs.db
+
+.idea/
+.vscode/
+.vs/
